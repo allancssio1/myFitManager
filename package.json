@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Allan Cassio <allan.cassio@oqvocequer.com.br>",
+  "license": "MIT"
+}
